@@ -146,3 +146,35 @@ span{
     height: 148px;
     margin: 0 15px;
 }
+.local{
+    width: 100%;
+    padding: 120px 80px;
+    text-align: center;
+}
+.local h3{
+    font-size: 36px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+}
+.local p {
+    font-size:20px;
+    color: #3c184e;
+    text-align: center;
+    margin-bottom: 45px;
+
+}
+iframe{
+    width: 800px;
+    height: 450px;
+}
+.rodape{
+    width: 100%;
+    padding: 10px 0;
+    background-color: #3c184e;
+}
+.rodape p {
+    color: #ffffff;
+    font-size: 12px;
+    text-align: center;
+}
